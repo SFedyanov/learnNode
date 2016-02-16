@@ -1,5 +1,5 @@
 {
-  "name": "testsocket",
+  "name": "learnnode",
   "version": "0.0.0",
   "description": "Testing how to work with socket.io",
   "main": "index.js",
@@ -10,5 +10,13 @@
     "socket.io"
   ],
   "author": "Sergey Fedyanov <sfedyanov@gmail.com> (silverapps.ru)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SFedyanov/learnNode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SFedyanov/learnNode/issues"
+  },
+  "homepage": "https://github.com/SFedyanov/learnNode#readme"
 }
